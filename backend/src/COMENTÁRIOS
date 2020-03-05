@@ -1,0 +1,10 @@
+// Metodos HTTP : get, post, put, delete
+
+//TIPOS DE PARÂMETROS:
+//Query params: request.query (Filtros,ordenação,paginação...)
+//Route Params: request.params (Identificar um recurso na alteração ou remoção)
+//Body: request.body (Dados para criação ou alteração de um registro)
+
+//MongoDB (BANCO DE DADOS NÃO RELACIONAL)
+
+// index, show , store, update, destroy ( funções que existem no CONTROLLERS)
